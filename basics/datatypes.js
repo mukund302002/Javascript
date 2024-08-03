@@ -11,3 +11,30 @@ let stat
 
 // finding the datatype of any variables.
 console.log(typeof name)
+
+
+
+
+
+
+
+//primitive datatypes are call by value
+// mtlb ki original wale se copy krte dete hai, memory ak reference nahi dete
+
+//PRIMITIVE
+
+// String
+// number
+// Boolean
+// null
+// undefined
+// Symbol
+// BigInt
+
+
+
+// NON-PRIMITIVE(REFERENCE TYPE)
+
+// Array
+// Object
+// function
